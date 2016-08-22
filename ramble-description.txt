@@ -1,0 +1,88 @@
+<p><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-01.png"></p>
+
+<p><a href="https://themeforest.net/user/softhopper/follow"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/twitter.png" alt="envato"></a><a href="https://behance.net/sofhopper"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/behance.png" alt="behance"></a><a href="https://dribbble.com/softhopper"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/dribble.png" alt="dribble"></a><a href="https://web.facebook.com/softhopper"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/facebook.png" alt="facebook"></a><a href="https://twitter.com/softhopperbd"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/twitter-original.png" alt="twitter"></a><a href="https://plus.google.com/105055065675783985997"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/google-plus.png" alt="google plus"></a><a href="http://softhopper.net/support"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/support.png" alt="support ticket"></a></p>
+<p><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-02.png"></p>
+<p><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-03.png"></p>
+<p><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-04.png"></p>
+<p><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-05.png"></p>
+<p><a href="https://www.youtube.com/playlist?list=PLGN3wffmP6vfabx4kRLgSgN6PZHqY3eY2"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-06.png"></a></p>
+<p><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-07.png"></p>
+<p><a href="http://ramble.softhopper.net/documentation/"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-08.png"></a></p>
+<p><a href="http://www.softhopper.net/support/"><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-09.png"></a></p>
+<p><img src="https://gitlab.com/softhopper/softhopper-envato-ad/raw/master/ramble-description-13.png"></p>
+
+<h4>Homepage Variation & Pages</h4>
+<ul>
+ 	<li>8 Blog Homepage with 100+ Layout Demo</li>
+ 	<li>4 Magazine Homepage with 50+ Layout Demo</li>
+ 	<li>5 Single Page Layout</li>
+ 	<li>Good Appeal with Contact Page</li>
+ 	<li>4 Shop Page Layout</li>
+ 	<li>4 Portfolio Page Layout</li>
+ 	<li>Unique 404 Page</li>
+ 	<li>Awesome About Me Page</li>
+ 	<li>Category Page Ready</li>
+</ul>
+
+<h3>Theme Features</h3>
+<ul>
+	<li>Translation Ready</li>
+	<li>SEO Friendly</li>
+	<li>Cross-Browser Compatibility Chrome, FireFox, Safari, Opera, IE9+</li>
+	<li>100% Responsive</li>
+	<li>Ready Mega Menu</li>
+	<li>1600+ Mega Menu Icon</li>
+	<li>100+ blog layout</li>
+	<li>Magazine layout</li>
+	<li>Woo-Commerce layout</li>
+	<li>Ready Mega Menu</li>
+	<li>RTL ready</li>
+	<li>Font Awesome Icons and Custom Icon (retina ready)</li>
+	<li>Well commented and well structured coding</li>
+	<li>Supported google fonts API </li>
+	<li>SASS (CSS) file included</li>
+	<li>Custom Image logo</li>
+	<li>Built with Bootstrap-3</li>
+	<li>Unlimited Color </li>
+	<li>Easy to customize</li>
+	<li>Widget Ready</li>
+	<li>Social share links</li>
+	<li>Custom layout support (Sidebar left, sidebar right and full width)</li>
+	<li>Show or hide Footer widget</li>
+	<li>Google Map included</li>
+	<li>Custom Favicon</li>
+	<li>15 Custom Widget</li>
+	<li>15+ shortcode support (with Facebook and Twitter status)</li>
+	<li>Supported Youtube, Vimeo, Soundcloud And self-hosted audio and video</li>
+	<li>Contact form built with Contact Form 7 plugin</li>
+	<li>Author info box below each article</li>
+	<li>Custom 404 error page.</li>
+	<li>Custom search page</li>
+	<li>Ready for latest version of WordPress.</li>
+	<li>And more…</li>
+</ul>
+<h3>Sources and Credits</h3>
+<p>I've used the following images, icons or other files as listed.</p>
+<h5>WORDPRESS PLUGINS &amp; LIBRARIES</h5>
+<ul>
+	<li>Redux Framework - <a href="https://github.com/ReduxFramework">https://github.com/ReduxFramework</a></li>
+	<li>TGM-Plugin-Activation - <a href="https://github.com/thomasgriffin/TGM-Plugin-Activation">https://github.com/thomasgriffin/TGM-Plugin-Activation</a></li>
+	<li>CMB2 - <a href="https://github.com/WebDevStudios/CMB2">https://github.com/WebDevStudios/CMB2</a></li>
+</ul>
+
+<h5>JAVASCRIPT / JQUERY PLUGINS </h5>
+<ul>
+	<li>bootstrap.js / bootstrap.min.js / Core Bootstrap 3 - <a href="http://www.getbootstrap.com">http://www.getbootstrap.com</a></li>
+	<li>owl.carousel.js - Item Slider Script - <a href="http://owlgraphic.com/owlcarousel/">http://owlgraphic.com/owlcarousel/</a></li>
+	<li>jQuery.appear.js - For jQuery appear - <a href="https://github.com/morr/jquery.appear">https://github.com/morr/jquery.appear</a></li>
+	<li>Fitvids - For video - <a href="http://fitvidsjs.com/">http://fitvidsjs.com/</a></li>
+	<li>modernizr - for html5 and css3 - <a href="http://modernizr.com/">http://modernizr.com/</a></li>
+	<li>SmoothScroll - <a href="https://github.com/galambalazs/smoothscroll">https://github.com/galambalazs/smoothscroll</a></li>
+	<li>Jquery - <a href="http://jquery.com/">http://jquery.com/</a></li>
+</ul>
+<h5>CSS PLUGINS</h5>
+<ul>
+	<li>bootstrap.min.css - <a href="http://www.getbootstrap.com">http://www.getbootstrap.com</a></li>
+	<li>Jquery - <a href="http://jquery.com/">http://jquery.com/</a></li>
+	<li>FontAwesome Icons<a href="http://fortawesome.github.io/Font-Awesome/">http://fortawesome.github.io/Font-Awesome/</a></li>
+</ul>
